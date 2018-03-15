@@ -10,4 +10,5 @@ class Exercise2 {
 }
 
 class SubExercise2 extends Exercise2 {
+    //to access i variable from Exercise2 class it should be package-private, protected or public.
 }

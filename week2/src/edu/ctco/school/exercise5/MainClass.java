@@ -14,5 +14,9 @@ public class MainClass
         System.out.println(x.i);
 
         x.methodOfX();
+        //we are in the same package. other options would be to change method visibility to package-private, protected or public
+        //from private
+        //1221
+        //1221
     }
 }
